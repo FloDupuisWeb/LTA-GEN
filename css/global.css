@@ -1,0 +1,11 @@
+h1{
+  color:green !important;
+  font-size:10px;
+}
+p{
+  color:rgb(198, 100, 218);
+}
+
+img.bordery{
+  border:5px solid yellow;
+}
